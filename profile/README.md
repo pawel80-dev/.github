@@ -3,7 +3,7 @@
 
 **Repos and some notes**
 
-There is not much place in CV to demonstrate my skills, that is why I will use Github as my CV extension. 
+There is not much place in CV to demonstrate coding skills, so I've placed few code samples on the Github.  
 
 Infrastructure as Code: SD-WAN and autonomous routers configuration via Terraform:  
 https://github.com/pawel80-dev/IaC-SDWAN-deployment  
