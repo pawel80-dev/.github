@@ -20,5 +20,5 @@ Infrastructure as Code: Nginx (rev-proxy) and Logstash Ansible role-based config
 https://github.com/pawel80-dev/IaC-Nginx-ELK  
 
 ![alt text](lab_general_pipeline_v1.png)  
-*Pipeline centric - general design*  
+*Pipeline centric SD-WAN solution - general design*  
 
