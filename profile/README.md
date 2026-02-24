@@ -14,7 +14,7 @@ Since a CV offers limited space to showcase my coding skills, I've included seve
 [Infrastructure as Code: Palo Alto customer policies deployment (Excel, Python, workflow)](https://github.com/pawel80-dev/IaC-PA-customer-rules)  
 [Infrastructure as Code: Azure, Google Cloud and on-prem Function deployment via Terraform](https://github.com/pawel80-dev/IaC-Azure-GC-onprem-Function)  
 [Infrastructure as Code: Nginx (rev-proxy) and Logstash Ansible role-based configuration (basic)](https://github.com/pawel80-dev/IaC-Nginx-ELK)  
-[Stock Exchange App: Static Web App + Function API emulated by SWA, front-end in JS/HTML/CSS](https://github.com/pawel80-dev/app-stocks)  
+[Stock Exchange App: Azure Static Web App + Function API emulated by SWA, front-end in JS/HTML/CSS](https://github.com/pawel80-dev/app-stocks)  
 
 ![alt text](lab_general_pipeline_v1.png)  
 *Pipeline centric SD-WAN solution - general design*  
